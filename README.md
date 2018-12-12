@@ -28,7 +28,7 @@ Once you have started a database container, you can then connect to the database
 
 See [the PostGIS documentation](http://postgis.net/docs/postgis_installation.html#create_new_db_extensions) for more details on your options for creating and using a spatially-enabled database.
 
-## Known Issues / Errors
+## Known Issues / Errors 
 
 When You encouter errors due to PostGIS update `OperationalError: could not access file "$libdir/postgis-X.X`, run:
 
